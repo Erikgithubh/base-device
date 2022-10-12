@@ -1,8 +1,8 @@
 /* 
 NOTE : JGN HPS DIBAWAH INI!!
 RECODE : RAHMXBOT X RAHMAN GNTENG:V
-WHATSAPP : 085821676621
-NOMOR BOT : 085821369324
+WHATSAPP : 0881025400447
+NOMOR BOT : 085920792778
 NOTE : JGN HPS AUTHORNYA!!!
 */
 
@@ -23,15 +23,15 @@ global.APIKeys = {
 
 //━━━━━━━━━━━━━━━[ SETTING ]━━━━━━━━━━━━━━━━━//
 global.thumb = fs.readFileSync('./image/thumbnail.jpg') // JGN DI UBAH!
-global.name = 'Aulia Rahman (Owner)', // GNTI NAMA LU!
-global.creator = 'LiaaCans BOT' // GANTI NAMA BOT LU BANH!
-global.owner = ['6285821676621'] // GNTI NOMOR LU!
-global.premium = ['6285821676621']
+global.name = 'RikzBot (Owner)', // GNTI NAMA LU!
+global.creator = 'RikzBot' // GANTI NAMA BOT LU BANH!
+global.owner = ['62881025400147'] // GNTI NOMOR LU!
+global.premium = ['62881025400447']
 global.quotes = 'Kesempatan Anda Untuk Sukses Di Setiap Kondisi Selalu Dapat Diukur Oleh Seberapa Besar Kepercayaan Anda Pada Diri Sendiri' // Ganti Quotes, Tapi Trsrh Klian
-global.pulsa = ['081528965381'] // UBAH NOMOR YG AKTIF!
-global.botname = 'LiaaCans BOT' // GNTI NAMA BOT LU!
-global.packname = 'Nih Stikel Umtukmu' // TRSERAH MO GANTI AP!
-global.author = 'LiaaCans BOT' // GNTI NMA LU!
+global.pulsa = ['0881825100144'] // UBAH NOMOR YG AKTIF!
+global.botname = 'RikzBot' // GNTI NAMA BOT LU!
+global.packname = 'RikzBot' // TRSERAH MO GANTI AP!
+global.author = 'Yiksz' // GNTI NMA LU!
 global.prefa = ['','!','.','/','#','$']
 global.sp = '⭔' // JGN DI UBAH²! NTR EROR
 global.mess = {
